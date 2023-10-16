@@ -7,10 +7,12 @@ import Explosive from './sections/Explosive';
 import Memastic from './sections/Memastic'; 
 import Tokenomics from './sections/Tokenomics'; 
 import Quick from './sections/Quick'; 
+import Header from './sections/Header'; 
 
 function App() {
   return (
    <div className="app px-10">
+<Header/>
 <Hero/>
 <Welcome/>
 <Retard/>
