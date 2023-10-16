@@ -11,7 +11,7 @@ import Header from './sections/Header';
 
 function App() {
   return (
-   <div className="app px-10">
+   <div className="flex flex-col justify-center align-center align-middle px-10 relative">
 <Header/>
 <Hero/>
 <Welcome/>
