@@ -8,10 +8,12 @@ import Memastic from './sections/Memastic';
 import Tokenomics from './sections/Tokenomics'; 
 import Quick from './sections/Quick'; 
 import Header from './sections/Header'; 
+import Wholebg from './assets/wholebg.svg'
 
 function App() {
   return (
    <div className="flex flex-col justify-center align-center align-middle px-10 relative">
+    <img src={Wholebg} alt="" className='w-screen absolute left-0' />
 <Header/>
 <Hero/>
 <Welcome/>
