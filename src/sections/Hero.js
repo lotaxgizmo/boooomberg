@@ -1,5 +1,7 @@
 import React from 'react'
 import Btn from '../components/hero/Btn'
+import Btn2 from '../components/hero/Btn2'
+import Capcha from '../assets/CAPCHA.gif'
 
 function Hero() {
   return (
@@ -13,9 +15,22 @@ function Hero() {
 </div>
 
 
-<div className="btn flex flex-col justify-center items-center py-10 ">
+<div className="btns">
+<div className="btn flex flex-col lg:flex-row  justify-center items-center pt-10 ">
 
 <Btn text={'BOOOOM NOW'}/>
+<Btn2 text={'DEXTOOLS'}/>
+<Btn text={'TELEGRAM'}/>
+
+</div>
+
+</div>
+
+<div className="gif flex lg:flex-row flex-col">
+    
+<img src={Capcha} className='' alt="" />
+<img src={Capcha} className='' alt="" />
+<img src={Capcha} className='' alt="" />
 
 </div>
 
