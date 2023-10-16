@@ -10,3 +10,9 @@ body {
   background-color: black;
   color: #FFEE55;
 } 
+
+::selection {
+  background-color: rgb(255, 230, 0);
+  color: black; /* This sets the text color inside the highlighted area to white for better visibility */
+  text-transform: uppercase;
+}

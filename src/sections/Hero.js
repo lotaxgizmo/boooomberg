@@ -10,8 +10,8 @@ function Hero() {
 <div className="text">
 <h1 className='text-center text-7xl lg:text-[150px]'>BOOOOMBERG</h1>
 <h1 className='text-center text-9xl mt-[-50px] lg:text-[300px] lg:mt-[-107px] lg:mb-[-57px] mb-[-20px]'>COIN</h1>
-<h1 className='text-center text-2xl lg:text-3xl'>The Wildest Ride in Finance </h1>
-<h1 className='text-center text-2xl lg:text-3xl'>Wall Street's Wildest Nightmare! </h1>
+<h2 className='text-center text-2xl lg:text-3xl'>The Wildest Ride in Finance </h2>
+<h3 className='text-center text-2xl lg:text-3xl'>Wall Street's Wildest Nightmare! </h3>
 </div>
 
 
