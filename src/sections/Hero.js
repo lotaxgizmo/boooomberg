@@ -36,7 +36,7 @@ function Hero() {
 
 </div>
 <img src={bggif} className='absolute' alt="" />
-<img src={rocketbg} className='absolute w-[3000px]' alt="" />
+<img src={rocketbg} className='absolute w-[3000px] top-0' alt="" />
 
     </div>
   )
