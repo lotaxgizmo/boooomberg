@@ -13,9 +13,9 @@ function Hero() {
 </div>
 
 
-<div className="btn flex flex-col justify-center items-center">
+<div className="btn flex flex-col justify-center items-center py-10 ">
 
-<Btn text={'Hello'}/>
+<Btn text={'BOOOOM NOW'}/>
 
 </div>
 
