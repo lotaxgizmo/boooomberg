@@ -20,7 +20,7 @@ function Mobile() {
 
     <div className='my-3 mb-6 lg:hidden flex flex-col justify-center items-center py-2 border-2 border-[#FFEE55] rounded-xl w-72 bg-black'>
       <div onClick={toggleHeight} className='pt-5'>
-        <img src={Hamburger} alt="" className='bg-white w-10s self-startd' />
+        <img src={Hamburger} alt="" className='bg-whitde w-10s self-startd' />
       </div>
       <div className="flex justify-center items-center py-2">
         <div className={`${isMax ? maxHeight : minHeight} rounded-xl flex flex-col justify-around  self-center ws-96 h-56 ${isMax ? showmenu : hidemenu}`}>
