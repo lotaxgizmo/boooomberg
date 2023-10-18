@@ -8,14 +8,26 @@ function Tokenomics() {
     <div className='flex flex-col items-center justify-center'>
        <p className='text-center text-3xl lg:text-5xl  z-10 border-2 border-l-[20px] border-[#FFEE55] px-4
        hover:border-l-[30px] transition-all '>TOKENOMICS TO MAKE YOU GO BONKERS </p>
+      <p className='text-center text-2xl lg:text-3xl lg:w-[800px] pt-2 py-1 z-10'>
+      Token Name: BOOOOMBERG
+       </p>
        <p className='text-center text-2xl lg:text-3xl lg:w-[800px] pt-2 py-1 z-10'>
-       Total Supply: 10,000,000,000 $BOOOOM
+       Token Symbol: $BOOOOM
+       </p>
+       <p className='text-center text-2xl lg:text-3xl lg:w-[800px] pt-2 py-1 z-10'>
+       Total Supply: 100,000,000,000,000 $BOOOOM
+       </p>
+       <p className='text-center text-2xl lg:text-3xl lg:w-[800px] pt-2 py-1 z-10'>
+       Tokens For Presale: 16,000,000,000,000 $BOOOOM
+       </p>
+       <p className='text-center text-2xl lg:text-3xl lg:w-[800px] pt-2 py-1 z-10'>
+       Tokens For Liquidity: 7,752,000,000,000 $BOOOOM
        </p>
        <p className='text-center text-2xl lg:text-3xl lg:w-[800px]  py-1 z-10'>
-       99% of tokens were shot into space, never to return.
+       70% of tokens were shot into space, never to return.
        </p>
        <p className='text-center text-2xl lg:text-3xl lg:w-[800px]  py-1 z-10'>
-       The remaining 1% is hidden in a vault guarded by finance clowns.
+       The remaining 30% is hidden in a vault guarded by finance clowns.
        </p>
        <img src={crystal} alt="" />
 
