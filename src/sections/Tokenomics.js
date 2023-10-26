@@ -4,7 +4,7 @@ import Btn from '../components/hero/Btn'
 
 function Tokenomics() {
   return (
-    <div className='my-10 flex flex-col lg:flex-row justify-center items-center bg-resd-400'>
+    <div className='my-10 flex flex-col lg:flex-row justify-center items-center bg-resd-400' id="Tokenomics">
       <div className='flex flex-col items-center justify-center'>
         <p className='text-center text-3xl lg:text-7xl  z-10 border-2 border-l-[20px] border-[#FFEE55] px-4
        hover:border-l-[30px] transition-all '>TOKENOMICS TO MAKE YOU GO BONKERS </p>

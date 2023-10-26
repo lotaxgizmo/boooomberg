@@ -32,8 +32,13 @@ function Mobile() {
         <div className={`${isMax ? maxHeight : minHeight} w-60  rounded-xl flex flex-col justify-around  self-center ws-96 h-56 ${isMax ? showmenu : hidemenu}`}>
           <a href="https://www.boooomberg.xyz/" target="_blank" rel="noopener noreferrer" className='hover:text-whitel text-left text-5xl hover:text-xl'>HOME</a>
           <a href="https://twitter.com/boooomberg" target="_blank" rel="noopener noreferrer" className='hover:text-whitel text-left text-5xl hover:text-xl'>TWITTER</a>
-          <a href="#" target="_blank" rel="noopener noreferrer" className='hover:text-whitel text-left text-5xl hover:text-xl'>DEXTOOLS</a>
           <a href="#" target="_blank" rel="noopener noreferrer" className='hover:text-whitel text-left text-5xl hover:text-xl'>TELEGRAM</a>
+          <a href="/#Tokenomics" className="hover:text-whitel hover:text-xl">
+            TOKENOMICS
+          </a>
+          <a href="/#Roadmap" className="hover:text-whitel hover:text-xl">
+            ROADMAP
+          </a>
         </div>
       </div>
     </div>

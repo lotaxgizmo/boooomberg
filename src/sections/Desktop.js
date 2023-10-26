@@ -17,10 +17,13 @@ function Desktop() {
             TWITTER
           </a>
           <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-whitel hover:text-xl">
-            DEXTOOLS
-          </a>
-          <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-whitel hover:text-xl">
             TELEGRAM
+          </a>
+          <a href="/#Tokenomics" className="hover:text-whitel hover:text-xl">
+            TOKENOMICS
+          </a>
+          <a href="/#Roadmap" className="hover:text-whitel hover:text-xl">
+            ROADMAP
           </a>
         </div>
       </div>
