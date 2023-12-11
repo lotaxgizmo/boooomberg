@@ -10,7 +10,6 @@ function Hero() {
     <div className='flex flex-col justify-center items-center relative '>
 
       <div className="text mt-40 z-10">
-        <h1 className='text-center text-7xl lg:text-[150px]'>yooooooooooo</h1>
         <h1 className='text-center text-7xl lg:text-[150px]'>BOOOOMBERG</h1>
         <h1 className='text-center text-9xl mt-[-50px] lg:text-[300px] lg:mt-[-107px] lg:mb-[-57px] mb-[-20px]'>COIN</h1>
         <h2 className='text-center text-2xl lg:text-3xl'>The Wildest Ride in Finance </h2>
